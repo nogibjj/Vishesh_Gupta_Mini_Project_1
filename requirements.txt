@@ -1,0 +1,9 @@
+#devops
+black==22.3.0
+pytest==7.4.0
+pytest-cov==4.0.0
+pylint==2.15.3
+
+#web
+fastapi==0.85.0         ## Web Framework for building APIs
+uvicorn==0.18.3         ## Web Server implementation
