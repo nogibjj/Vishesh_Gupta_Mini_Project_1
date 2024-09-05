@@ -16,7 +16,7 @@ Here you can find:
 - Requirements.txt specify the library requirements to run the code
 - .devcointainer has a .json file and a Dockerfile
 
-# Approach Take to solve the assignment:
+# Approach taken to solve the assignment:
 
 - We first clone the public repository that was created
 - Using mkdir and touch we create the necessary files required for obtaining the framework
