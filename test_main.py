@@ -1,7 +1,7 @@
 from main_python import multiply
 
 
-def test_add():
+def test_multiply():
     """testing out multiply function"""
     assert multiply(3, 10) == 30
     assert multiply(2, 0) == 0
@@ -9,4 +9,4 @@ def test_add():
 
 
 if __name__ == "__main__":
-    test_add()
+    test_multiply()
