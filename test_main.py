@@ -2,7 +2,7 @@ from main_python import multiply
 
 
 def test_add():
-    """testing out add function"""
+    """testing out multiply function"""
     assert multiply(3, 10) == 30
     assert multiply(2, 0) == 0
     assert multiply(5, 6) == 30
